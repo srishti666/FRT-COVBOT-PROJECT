@@ -1,6 +1,6 @@
 # COVBOT
 
-This is my project for Future Ready Talent
+This is my project for Future Ready Talent Program
 
 ## Problem Statement
 Healthcare is arguably the most important industry now and patients need quick access to health information and medical facilities. AI in healthcare can be used to cut down on human labor to easily access, analyze and provide healthcare professionals with a list of possible diagnoses in a matter of seconds.Chatbots have the potential to revolutionize healthcare. They can substantially boost efficiency and improve the accuracy of symptom detection and reduce the anxiety due to the increasing covid cases nowadays.
