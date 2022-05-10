@@ -1,4 +1,4 @@
-# FRT-COVBOT-PROJECT
+# COVBOT
 
 This is my project for Future Ready Talent
 
