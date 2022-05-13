@@ -11,5 +11,5 @@ Developed a Azure Health bot using Azure Services. The Project intregates a bot 
 Azure Bot Service, Azure Cognitive Search, QnA Maker
 
 The following screenshot shows the working of my project
-![COVBOT 1](https://user-images.githubusercontent.com/85846340/167714046-5e41e6fa-9e8f-4c54-b82d-05eec138927d.png)
+![covbot1](https://user-images.githubusercontent.com/85846340/168328493-b20bcd64-f7a6-4e1a-84a7-184cfefa794a.png)
 ![covbot 2](https://user-images.githubusercontent.com/85846340/167714955-65509c6e-aa6b-4407-9d45-6a99238b8896.png)
