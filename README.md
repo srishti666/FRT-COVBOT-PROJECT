@@ -12,4 +12,5 @@ Azure Bot Service, Azure Cognitive Search, QnA Maker
 
 The following screenshot shows the working of my project
 ![covbot1](https://user-images.githubusercontent.com/85846340/168328493-b20bcd64-f7a6-4e1a-84a7-184cfefa794a.png)
-![covbot 2](https://user-images.githubusercontent.com/85846340/167714955-65509c6e-aa6b-4407-9d45-6a99238b8896.png)
+![covbot2](https://user-images.githubusercontent.com/85846340/168328597-cab89892-6123-456d-b78c-e55d200387a4.png)
+
